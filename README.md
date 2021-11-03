@@ -1,10 +1,3 @@
-# vuedemo
-gogo
+# 准备学习vue
 
 
-gogo
-
-
-gogo
-
-gogo
